@@ -120,7 +120,7 @@ npm run dev
     <tr style="height: 280px; vertical-align: top;">
       <td align="center" width="200" style="vertical-align: top;">
         <a href="https://github.com/cskime">
-          <img width="104" height="101" src="https://github.com/user-attachments/assets/b4278376-2b85-4cd7-ac1c-e48835d939e2" /><br/>
+          <img width="104" height="101" src="https://github.com/user-attachments/assets/c4e08c30-3b45-42ab-99af-a157f72e1474" /><br/>
           <strong>김참솔</strong>
           <br/>
           <br/>
@@ -151,7 +151,7 @@ npm run dev
       </td>
       <td align="center" width="200" style="vertical-align: top;">
         <a href="https://github.com/nidor022">
-          <img width="104" height="101" src="https://github.com/user-attachments/assets/8c69e6a8-7049-4223-a44a-32c6c6dd804f" /><br/>
+          <img width="104" height="101" src="https://github.com/user-attachments/assets/bbbc05a6-b7e9-46d1-be42-0bc2da7f0296" /><br/>
           <strong>이루리</strong>
           <br/>
           <br/>
@@ -169,7 +169,7 @@ npm run dev
     <tr style="height: 280px; vertical-align: top;">
       <td align="center" width="200" style="vertical-align: top;">
         <a href="https://github.com/YOOJEYEONG">
-          <img width="104" height="101" src="https://github.com/user-attachments/assets/269cb19b-e22f-4a66-923d-51bb29750384" /><br/>
+          <img width="104" height="101" src="https://github.com/user-attachments/assets/30d03d87-1486-4c5a-ac95-4fe1f34dbd2a" /><br/>
           <strong>유제영</strong>
           <br/>
           <br/>
